@@ -8,6 +8,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sass": "^1.52.2",
     "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "pnpm": "^7.1.9",
+    "yarn": "^1.22.18"
   }
 }
